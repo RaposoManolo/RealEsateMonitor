@@ -1,4 +1,4 @@
-# Real Esate Monitor
+# Real Estate Monitor
 UK Property Ownership Analysis with Microsoft Fabric
 
 **Overview**
